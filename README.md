@@ -1,5 +1,3 @@
-# C-COD-260-PAR-2-1-ecp-estelle.thou
-
 ## Presentation 
 
 "Pet My Pets" is a website for animal donation or people who are looking for keepers. 
